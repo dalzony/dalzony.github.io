@@ -17,3 +17,7 @@ markdown: kramdown
 
 # extra
 highlighter: pygments
+
+# disqus
+
+disqus: dalzone-blog
