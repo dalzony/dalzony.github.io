@@ -16,7 +16,7 @@ github_username:  dalzony
 markdown: kramdown
 
 # extra
-highlighter: pygments
+highlighter: rouge
 
 # disqus
 
