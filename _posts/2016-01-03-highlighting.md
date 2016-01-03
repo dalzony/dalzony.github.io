@@ -7,9 +7,7 @@ categories: jekyll
 [jekyll-templates] 설명을 보고, `pygments`를 설치해야만, 코드를 표현할 수 있다고 생각했다.
 하지만, pygments는 계속 실패했고...
 
-```
-{% highlight bash %}
-
+```sh
 Configuration file: /${repo_dir}/dalzony.github.io/_config.yml
             Source: /${repo_dir}/dalzony.github.io
        Destination: /${repo_dir}/dalzony.github.io/_site
@@ -20,20 +18,16 @@ Configuration file: /${repo_dir}/dalzony.github.io/_config.yml
              ERROR: YOUR SITE COULD NOT BE BUILT:
                     ------------------------------------
                     pygments
-
-{% endhighlight %}
 ```
 
 여기저기서 알려주는 다음과 같은 짓을 해봤지만 역시나 실패였다.
 
-```
-{% highlight bash %}
+```sh
 $ gem install pygments.rb
 $ sudo easy_install Pygments
 $ ... 기억안나는 삽질들, Jekyll재설치 등등
-
-{% endhighlight %}
 ```
+
 결국 블로그를 또 몇 달동안 방치하는 사태로 이어졌다.
 
 ## 해결 - rouge
