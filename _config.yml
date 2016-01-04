@@ -13,10 +13,10 @@ twitter_username: dalzony
 github_username:  dalzony
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
 # extra
-highlighter: pygments
+highlighter: pygments #rouge
 
 # disqus
 
