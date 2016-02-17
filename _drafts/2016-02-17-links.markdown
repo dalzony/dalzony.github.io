@@ -1,0 +1,17 @@
+---
+layout: post
+title: 링크 정리
+date: '2016-02-17 11:51'
+---
+
+# clojure
+
+# 함수형
+- [what-is-functional-programming]
+- [번역(jooyunghan)]
+
+
+[what-is-functional-programming]:  http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+[번역(jooyunghan)]:  https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263#.rskpbzr0r
+
+# 코딩 인터뷰 & 문제

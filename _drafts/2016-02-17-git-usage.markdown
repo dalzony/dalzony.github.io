@@ -1,0 +1,31 @@
+---
+layout: post
+title: 내가 사용하는 git 사용법 정리
+date: '2016-02-17 11:51'
+---
+
+# git 설명 잘된 곳
+
+- [누구나 쉽게 이해할 수 있는 Git 입문]
+
+# 책
+
+-
+
+# 편집기 설정
+
+```
+git config --global core.editor emacs
+```
+
+# merge 충돌 시
+
+## 내가 수정한 걸로 덮어 쓸 때 '--ours'
+
+예:
+
+```
+$ git checkout --ours index.html
+```
+
+[누구나 쉽게 이해할 수 있는 Git 입문]: https://backlogtool.com/git-guide/kr/

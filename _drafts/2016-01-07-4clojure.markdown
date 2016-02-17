@@ -1,0 +1,22 @@
+---
+layout: post
+title: 4clojure 문제 풀기
+date: '2016-01-07 20:02'
+---
+
+# p 134
+
+```clojure
+(fn [k hv] (if (contains? hv k)
+             (if (nil? (get hv k))
+               true
+               false)
+             false))
+```
+
+이럴 땐 `and`를 쓰면 좋다.
+
+```clojure
+(fn [k hv]
+  (and (contains? hv k) (nil? (get hv k))))
+```
