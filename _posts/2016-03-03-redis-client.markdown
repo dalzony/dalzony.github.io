@@ -9,10 +9,10 @@ date: "2016-03-03 16:00"
 ![2016-03-03 4 02 17](https://cloud.githubusercontent.com/assets/562341/13486985/6acac470-e159-11e5-9300-e44d59954782.png)
 
 [레디스 페이지]에서도  carmine을 공식으로 적어둔 듯하다. 그리고 다음과 같이 설명을 적어놨는데.
-wcar는 뭐고.. 옵션은 어떤식으로 적어야하지;;
+wcar는 뭐고.. 옵션은 어떤식으로 적어야하지;
 
 
-```clojure
+```
 (def server1-conn {:pool {<opts>} :spec {<opts>}}) ; See `wcar` docstring for opts
 (defmacro wcar* [& body] `(car/wcar server1-conn ~@body))
 ```
@@ -29,7 +29,7 @@ wcar는 뭐고.. 옵션은 어떤식으로 적어야하지;;
 
 다음과같이 테스트 해보면 끗
 
-```clojure
+```
 (require '[clj-redis.client :as redis])
 
 (def db (redis/init))
