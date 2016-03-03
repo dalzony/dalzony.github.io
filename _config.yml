@@ -13,7 +13,7 @@ twitter_username: dalzony
 github_username:  dalzony
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 # extra
 highlighter: pygments #rouge
