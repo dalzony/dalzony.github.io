@@ -24,3 +24,4 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: /:year/:month/:title
+future: true
