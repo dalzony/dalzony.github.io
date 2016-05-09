@@ -13,11 +13,9 @@ twitter_username: dalzony
 github_username:  dalzony
 
 # Build settings
-markdown: redcarpet #kramdown
-
-# extra
-highlighter: pygments #rouge 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # disqus
-
 disqus: dalzone-blog
