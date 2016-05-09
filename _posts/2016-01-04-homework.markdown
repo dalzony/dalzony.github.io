@@ -1,0 +1,13 @@
+---
+layout: post
+title: "homework"
+date: "2016-01-04 18:51"
+---
+
+# 언젠가 하면 좋은 것
+
+- 요청이 어느 정도 가면 JVM 메모리 부족으로 죽는 서버 작성하기
+- C로 리눅스 Copy-On-Write 예제 작성해서 확인 해보기
+- Leiningen profile에 대해서 정리하고 환경 별로 다른 코드를 동작할 수 있는 예제 작성해 Clojure Korea에 포스팅하기
+- Clojars 사내 미러 구성하기
+- Clojure로 Java Daemon 쓰레드와 일반 쓰레드 예제를 작성하기
