@@ -4,5 +4,8 @@ title: "링크 모음"
 date: "2016-05-09 14:40"
 ---
 
-* restful-api 참고 : http://www.slideshare.net/apigee/restful-api-design-second-edition
-* ...
+돌아다니다가 본 링크들 모음
+
+- restful-api 참고 : http://www.slideshare.net/apigee/restful-api-design-second-edition
+- bash shell : https://www.gitbook.com/book/mug896/shell-script/details
+- 고급 베시스크립트 가이드 : https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/index.html
