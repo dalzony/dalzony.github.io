@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   perl -> objective-c -> clojure
   developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://dalzony.github.io/" # the base hostname & protocol for your site
 twitter_username: dalzony
 github_username:  dalzony
 
@@ -23,7 +23,6 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: /:year/:month/:title
-
 
 future: true
 
