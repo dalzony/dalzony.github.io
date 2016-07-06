@@ -1,0 +1,57 @@
+---
+layout: post
+title: "docker"
+date: "2016-05-17 14:05"
+---
+
+```
+docker shell
+##         .
+## ## ##        ==
+## ## ## ## ##    ===
+/"""""""""""""""""\___/ ===
+~~~ {~~ ~~~~ ~~~ ~~~~ ~~~ ~ /  ===- ~~~
+\______ o           __/
+\    \         __/
+\____\_______/
+```
+
+
+```
+docker pull clojure
+docker run -i -t --name mailbot clojure /bin/bash
+
+root@22b7e008d971:/tmp#
+
+```
+
+
+https://blog.giantswarm.io/deploy-clojure-application-in-1-minute/
+
+```
+project에 추가
+lein uberimage
+--블라블라 뭔가 설치후 이미지 번호가 나옴 --
+;; Built image 5fdad4cc3147
+$ docker run -d -p 3000:8080 <image-uuid>
+
+ip보기
+docker-machine ip
+```
+
+## docker 쉘 명령어 정리
+
+### 정보
+
+- docker ps 명령어는 실행중인 컨테이너 목록 보기
+  - option : -a
+
+### 실행
+
+- docker run 컨테이너 생성
+- docker rm 컨테이너 삭제
+- docker start 컨테이너를 다시 실행
+- docker stop 컨테이너를 정지
+- docker restart 컨테이너를 재실행
+- docker kill ??
+- docker attach 실행중인 컨테이너에 붙기 (쉘)
