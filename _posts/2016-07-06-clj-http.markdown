@@ -1,0 +1,46 @@
+---
+layout: "post"
+title: "clj-http 사용하기"
+date: "2016-07-06 23:44"
+---
+
+다른 api호출을 할 때, [clj-http] 라이브러리를 많이 쓰게 되는데 사용하면서 안되었던 점/해결방법을 기록차 남긴다.
+
+## get 사용시, `:query-params`사용하기
+
+:query-params 의 값으로 `키`로 이뤄진 맵을 썼더니, 동작을 안했다.
+그래서 되는데로, request url에 str함수로 파라미터를 붙여서 쓰곤 했다.
+알보고니 `키`로 쓰면 안되고, 다음과 같이 스트링으로 쓰면 아주 잘 보내진다.
+대부분 request내부의 맵이 스트링으로 넘어오기 때문에, 그대로 넘기면 된다.
+
+
+```
+;; 쿼리 파라미터 ?q=test 을 표현하고 싶었다.
+
+(client/get request-url {:query-params {:q :test}}) ;; 이렇게 하면 앙 뎀
+
+(client/get request-url {:query-params {"q" "test"}}) ;; 이렇게 하면 잘 됨
+```
+
+## 응답을 json으로 받으려면?
+
+다음과 같이 default-option같은 것은 만들어 두고, 다른 옵션과 함께 merge해서 쓰면 편리하다.
+
+```
+
+(def default-option {:accept :json
+                    :content-type :json
+                    :as :json})
+;; option 없을 때
+:body "{\n  \"result\": \"1.0.0.453\"\n}"
+
+;; 있을때
+:body {:result "1.0.0.453"}
+
+;;최종
+(client/get request-url (merge {:query-params {"q" "test"}} default-option)) ;; 이렇게 하면 잘 됨
+```
+
+-------
+
+[clj-http]: https://github.com/dakrone/clj-http
