@@ -6,21 +6,21 @@ date: "2016-05-09 14:40"
 
 돌아다니다가 본 링크들 모음
 
-# clojure
+## clojure
 
-## 언어
+### 언어
 
 - 그리므와 (cheat sheet): http://conj.io
 - clojure org 의 cheat sheet : http://clojure.org/api/cheatsheet
 
-## 라이브러리
+### 라이브러리
 
 - clojar
 - cross clj
 - clojure werkz
 - clojure toolbox
 
-## 뉴스
+### 뉴스
 
 - https://groups.google.com/forum/#!forum/clojure
 - http://planet.clojure.in
@@ -34,3 +34,4 @@ date: "2016-05-09 14:40"
 - restful-api 참고 : http://www.slideshare.net/apigee/restful-api-design-second-edition
 - bash shell : https://www.gitbook.com/book/mug896/shell-script/details
 - 고급 베시스크립트 가이드 : https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/index.html
+- clean-coders : https://www.youtube.com/watch?v=60lLSe1phks
