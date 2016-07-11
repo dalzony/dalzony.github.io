@@ -1,0 +1,46 @@
+---
+layout: "post"
+title: "[유틸소개] autojump"
+date: "2016-07-11 20:00"
+---
+
+zsh을 써서 cd를 안써도 되긴 하지만, 프로젝트까지 가는 뎁스가 길 때는 귀찮다.
+그럴 때 쓰는 오토쩜프!
+
+0. 맥에서
+1. $ brew install autojump
+
+```
+==> Downloading https://homebrew.bintray.com/bottles/autojump-22.3.0.el_capitan.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring autojump-22.3.0.el_capitan.bottle.tar.gz
+==> Caveats
+Add the following line to your ~/.bash_profile or ~/.zshrc file (and remember
+to source the file to update your current session):
+  [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+
+If you use the Fish shell then add the following line to your ~/.config/fish/config.fish:
+  [ -f /usr/local/share/autojump/autojump.fish ]; and . /usr/local/share/autojump/autojump.fish
+
+zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/autojump/22.3.0: 18 files, 165.6K
+```
+
+2. .zshrc 또는 .bashrc에 하라는데로 적음
+
+```sh
+#.zshrc
+[[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+```
+
+3. 설정
+
+```
+$ j # 점프 돌아다기 (두개 정도만 되는듯)
+$ j -h # 도움!
+$ j -s # 가중치 리스트 볼 수 있음
+$ j -i # 현재 디렉토리 가중치 올리기
+$ j [디렉토리 이름]
+```
