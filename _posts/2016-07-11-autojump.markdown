@@ -7,8 +7,8 @@ date: "2016-07-11 20:00"
 zsh을 써서 cd를 안써도 되긴 하지만, 프로젝트까지 가는 뎁스가 길 때는 귀찮다.
 그럴 때 쓰는 오토쩜프!
 
-0. 맥에서
-1. $ brew install autojump
+## 0. 맥에서
+## 1. $ brew install autojump
 
 ```
 ==> Downloading https://homebrew.bintray.com/bottles/autojump-22.3.0.el_capitan.bottle.tar.gz
@@ -28,14 +28,14 @@ zsh completion has been installed to:
 🍺  /usr/local/Cellar/autojump/22.3.0: 18 files, 165.6K
 ```
 
-2. .zshrc 또는 .bashrc에 하라는데로 적음
+## 2. .zshrc 또는 .bashrc에 하라는데로 적음
 
 ```sh
 #.zshrc
 [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
 ```
 
-3. 설정
+## 3. 설정
 
 ```
 $ j # 점프 돌아다기 (두개 정도만 되는듯)
