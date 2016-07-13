@@ -35,4 +35,6 @@ date: "2016-05-09 14:40"
 - restful-api 참고 : http://www.slideshare.net/apigee/restful-api-design-second-edition
 - bash shell : https://www.gitbook.com/book/mug896/shell-script/details
 - 고급 베시스크립트 가이드 : https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/index.html
+- the-art-of-command-line : https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md
+- explain shell : http://explainshell.com/
 - clean-coders : https://www.youtube.com/watch?v=60lLSe1phks
