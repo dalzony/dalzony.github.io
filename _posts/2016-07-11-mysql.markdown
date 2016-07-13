@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "mysql"
+date: "2016-07-11 21:05"
+---
+
+## AS 사용
+
+1. AS는 새로 만든 테이블을 Select의 결과로 채운다.
+1. 열에 대한 별명(alias) 붙이기

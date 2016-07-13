@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "[study] 데이터 과학 입문 Doing Data Science - 0"
+title: "[책] 데이터과학 입문 Doing Data Science - 0"
 date: "2016-07-13 18:34"
 ---
 
