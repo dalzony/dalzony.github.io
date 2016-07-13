@@ -12,6 +12,7 @@ date: "2016-05-09 14:40"
 
 - 그리므와 (cheat sheet): http://conj.io
 - clojure org 의 cheat sheet : http://clojure.org/api/cheatsheet
+- 왜 클로저 인가 : http://www.techsuda.com/?s=Clojure
 
 ### 라이브러리
 
