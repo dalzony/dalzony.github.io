@@ -48,6 +48,9 @@ user=> (boring "Is anybody home?")
 ;; A really goofy way to find the size of a collection
 user=> (reduce + (map (constantly 1) [:a :b :c]))
 3
+
+;; 테스트할 때 특히 많이 쓰인다.
+(constantly 1) is often useful when it comes to testing. You can think of it like you would a "stub".
 ```
 
 - 참고 : [constantly-clojuredocs]
