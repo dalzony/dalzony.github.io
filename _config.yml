@@ -28,3 +28,6 @@ future: true
 
 # disqus
 disqus: dalzone-blog
+
+favicon: true
+favicon_location: images/favicon.ico
