@@ -30,4 +30,4 @@ future: true
 disqus: dalzone-blog
 
 favicon: true
-favicon_location: images/favicon.ico
+favicon_location: /images/favicon.ico
