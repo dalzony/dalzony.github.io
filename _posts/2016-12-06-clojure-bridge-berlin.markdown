@@ -94,11 +94,12 @@ They are..
 - **great** coaches & teaching assistants
 - **wonderful** participants
 
-In My Group 8 , we emphasize `"Don't be sorry (about questions)"`, so all participants join with freely.
+In My Group 8 , we emphasize `"Don't be sorry (about questions)"`,  
+so all participants join with freely.
 
 - - -
 
-I love clojure-bridge❤️berlin chapter.
+I love clojure-bridge❤️berlin chapter.  
 Thank you.
 
 [berlincodeofconduct.org]: http://berlincodeofconduct.org/
