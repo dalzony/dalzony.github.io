@@ -11,6 +11,8 @@ Two weeks ago, I visited Berlin to join the clojure bridge workshop as a Korean 
 Actually I am not beginners for clojure, but I have a plan to oraganize the clojure-bridge in korea.
 This is my first clojure-bridge workshop, so i'd like to write something about memorable things.
 
+(You can read 🇰🇷[clojre.kr-korean-version-posting])
+
 ## 1. Name tag
 
 ![nametag](https://cloud.githubusercontent.com/assets/562341/21099982/b9351224-c0b4-11e6-9f43-b1a20659fd3d.png)
@@ -105,3 +107,5 @@ Thank you.
 [berlincodeofconduct.org]: http://berlincodeofconduct.org/
 [quil]: http://quil.info/
 [nightcode]: https://sekao.net/nightcode/
+[2017-clojure-bridge-seoul]: https://goo.gl/forms/JntLHro0XGw1SypO2
+[clojre.kr-korean-version-posting]: http://clojure.kr/clojure-bridge-berlin
