@@ -32,7 +32,7 @@ and
 I like this system(?) of nametag. It is very simple and useful.
 Especially, `Picture` and `Pronouns`.
 
-I also share Franks's Tweet with description of name tag.
+I also share Franka's Tweet with description of name tag.
 She is one of clojure-bridge oranizers. (That's why she doesn't have the Group number.)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is what name tags look like for <a href="https://twitter.com/hashtag/clojurebridge?src=hash">#clojurebridge</a> Berlin: Name, pronouns, install status, pictures for social media yes/no. <a href="https://t.co/JvyrvtVEtQ">pic.twitter.com/JvyrvtVEtQ</a></p>&mdash; Franka (@franschm) <a href="https://twitter.com/franschm/status/804648608289136640">December 2, 2016</a></blockquote>
