@@ -38,7 +38,7 @@ She is one of clojure-bridge oranizers. (That's why she doesn't have the Group n
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is what name tags look like for <a href="https://twitter.com/hashtag/clojurebridge?src=hash">#clojurebridge</a> Berlin: Name, pronouns, install status, pictures for social media yes/no. <a href="https://t.co/JvyrvtVEtQ">pic.twitter.com/JvyrvtVEtQ</a></p>&mdash; Franka (@franschm) <a href="https://twitter.com/franschm/status/804648608289136640">December 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 2. Nonbinay people
+## 2. Nonbinary people
 
 ![nonbinay](https://cloud.githubusercontent.com/assets/562341/21100606/5c54ca14-c0b8-11e6-9465-d5f969dd0ca8.png)
 > Poster
