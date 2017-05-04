@@ -27,6 +27,9 @@ categories: [travel]
 
 ## 이란이란?
 
+
+![img_passport](https://cloud.githubusercontent.com/assets/562341/25699042/19208d62-30f4-11e7-84a9-4c00f23e311e.JPG)
+
 ### 짐 부치기
 
 아무래도 우리가 큰 일을 저지르긴 한 모양이다.  
@@ -56,6 +59,9 @@ categories: [travel]
 
 ### 비행기 탑승하기
 
+![img_1820](https://cloud.githubusercontent.com/assets/562341/25699594/782b0bf0-30f6-11e7-9e88-0c57783f8460.JPG)
+
+
 짐을 부치고,검색대도 통과해, 면세점에 들렀다가 게이트근처 라운지에서 기다리는데,  
 방송에서 내 이름을 부른다.  
 이번엔 또 뭔가 싶어, 쪼르르 데스크로 갔다.  
@@ -71,6 +77,8 @@ categories: [travel]
 
 이쯤 되니, 진짜 큰일을 저지른게 확실하다는 생각이 든다.ㅋㅋ  
 다시 자리에 앉으니, 내 앞에 히잡을 쓴 여인들이 쭉 앉아있다.  
+
+![img_hijab](https://cloud.githubusercontent.com/assets/562341/25699593/77e768be-30f6-11e7-91e1-0140a744275b.JPG)
 
 -------
 
