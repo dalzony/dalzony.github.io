@@ -23,12 +23,11 @@ categories: [travel]
 내가 고개를 들었을 때는, 내가 한 리포터 뒤에서 카메라로 정면으로 찍히고 있는 것이었다.  
 나는 빛의 속도로 뒷걸음질 쳤다.  
 
-핳.. 
+핳..
 
 ## 이란이란?
 
-
-![img_passport](https://cloud.githubusercontent.com/assets/562341/25699042/19208d62-30f4-11e7-84a9-4c00f23e311e.JPG)
+![img_passport](https://github.com/dalzony/images/blob/master/travel/050401.jpg?raw=true)
 
 ### 짐 부치기
 
@@ -38,7 +37,7 @@ categories: [travel]
 "이란 맞으세요? 테헤란?"  
 "비자는 어떻게..?"  
 "도착시 복장규정은 알고 계시죠?"  
-"잠시만요...". 
+"잠시만요...".
 
 그리고는 직급이 높아 보이는 직원과 한참을 대화한다.  
 아직 아무것도 시작을 못했는데, 벌써부터 쫄린다.  
@@ -59,7 +58,7 @@ categories: [travel]
 
 ### 비행기 탑승하기
 
-![img_1820](https://cloud.githubusercontent.com/assets/562341/25699594/782b0bf0-30f6-11e7-9e88-0c57783f8460.JPG)
+![img_plane](https://github.com/dalzony/images/blob/master/travel/050402.png?raw=true)
 
 
 짐을 부치고,검색대도 통과해, 면세점에 들렀다가 게이트근처 라운지에서 기다리는데,  
@@ -78,7 +77,7 @@ categories: [travel]
 이쯤 되니, 진짜 큰일을 저지른게 확실하다는 생각이 든다.ㅋㅋ  
 다시 자리에 앉으니, 내 앞에 히잡을 쓴 여인들이 쭉 앉아있다.  
 
-![img_hijab](https://cloud.githubusercontent.com/assets/562341/25699593/77e768be-30f6-11e7-91e1-0140a744275b.JPG)
+![img_hijab](https://github.com/dalzony/images/blob/master/travel/050403.png?raw=true)
 
 -------
 
