@@ -7,7 +7,7 @@ categories: [travel]
 
 ## 도착비자 발급 방법
 
-[이전 글 보기](http://dalzony.github.io/2017/05/iran_tehran)
+[이전 글 보기](http://dalzony.github.io/2017/05/iran_visa)
 
 
 ## 비행기
