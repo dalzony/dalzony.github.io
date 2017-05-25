@@ -11,6 +11,8 @@ email: dalzony at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   perl -> objective-c -> clojure
   developer
+  Copyright 2017. Minsun Lee All pictures cannot be copied without permission.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dalzony.github.io/" # the base hostname & protocol for your site
 twitter_username: dalzony
