@@ -44,6 +44,18 @@ date: "2016-07-06 23:44"
 (client/get request-url (merge {:query-params {"q" "test"}} default-option)) ;; 이렇게 하면 잘 됨
 ```
 
+
+## 기타
+
+http를 요청하던 중에는 가끔 에러들이 나는데
+
+```
+...... :reason-phrase "Not Found" .......
+```
+
+이런 에러를 봤을 때는 http 요청이 잘못되었던 거,
+다양한 이유가 있겠지만 url마지막에 "/"이 포함되었는지 확인해보자.
+
 -------
 
 [clj-http]: https://github.com/dakrone/clj-http
